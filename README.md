@@ -9,6 +9,5 @@ Fique a vontade para usar meus projetos disponíveis! Se puder deixar um crédit
 </p><br>
 
 <p align="left">
-  🌐 <strong>Linguagens</strong>: 
-  <img src="https://skillicons.dev/icons?i=python, javascript"/>
+  🌐 <strong>Linguagens</strong>:  r/ <img src="https://skillicons.dev/icons?i=python,js"/>
 </p>
