@@ -1,4 +1,4 @@
-<img src="https://imgur.com/QdSK5JM.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://imgur.com/QdSK5JM.png" min-width="240px" max-width="240px" width="240px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 Opa, eu sou o <strong>Authe</strong> e seja bem-vindo(a) ao meu perfil do <strong>Github</strong>!
