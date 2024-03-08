@@ -2,7 +2,7 @@
 
 <p align="left"> 
 Opa, eu sou o <strong>Authe</strong> e seja bem-vindo(a) ao meu perfil do <strong>Github</strong>!
-Eu sou um <strong>Hacker Profissional</strong> e <strong>programador</strong>, e aqui você poderá encontrar alguns projetos meus.
+Eu sou um <strong>Hacker Profissional</strong> e <strong>Programador</strong>, e aqui você poderá encontrar alguns projetos meus.
 Sou apaixonado pelo meu trabalho...
 Se quiser falar comigo ou participar de meus projetos, me chame no discord: <strong>authe1234</strong>.
 Fique a vontade para usar meus projetos disponíveis! Se puder deixar um crédito, agradeço =D
